@@ -1,0 +1,18 @@
+﻿Build started 6/23/2018 7:50:27 AM.
+     1>Project "C:\Users\Abid Shafique\Documents\Visual Studio 2013\Projects\Bank Account System\Bank Account System\Bank Account System.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Bank Account System.cpp"
+         Bank Account System.cpp
+     1>c:\users\abid shafique\documents\visual studio 2013\projects\bank account system\bank account system\bank account system.cpp(150): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\abid shafique\documents\visual studio 2013\projects\bank account system\bank account system\bank account system.cpp(744): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\abid shafique\documents\visual studio 2013\projects\bank account system\bank account system\bank account system.cpp(831): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\abid shafique\documents\visual studio 2013\projects\bank account system\bank account system\bank account system.cpp(926): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\abid shafique\documents\visual studio 2013\projects\bank account system\bank account system\bank account system.cpp(1004): warning C4101: 'c' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Abid Shafique\Documents\Visual Studio 2013\Projects\Bank Account System\Debug\Bank Account System.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Abid Shafique\Documents\Visual Studio 2013\Projects\Bank Account System\Debug\Bank Account System.pdb" /SUBSYSTEM:CONSOLE,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Abid Shafique\Documents\Visual Studio 2013\Projects\Bank Account System\Debug\Bank Account System.lib" /MACHINE:X86 "Debug\Bank Account System.obj"
+         Bank Account System.vcxproj -> C:\Users\Abid Shafique\Documents\Visual Studio 2013\Projects\Bank Account System\Debug\Bank Account System.exe
+     1>Done Building Project "C:\Users\Abid Shafique\Documents\Visual Studio 2013\Projects\Bank Account System\Bank Account System\Bank Account System.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.79
